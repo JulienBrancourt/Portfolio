@@ -62,27 +62,32 @@ span.two{
 }
 .h2{right:0;
   animation: load2 2s ease-in-out 1.6s forwards;
+  animation: load2 2s ease-in-out forwards;
   background-color: rgb(60, 109, 120);
   background: linear-gradient(rgb(7, 59, 71) 1%, rgb(60, 109, 120) 99%);
 }
 .h3{right:0;
   animation: load3 2s ease-in-out 3.2s forwards;
+  animation: load3 2s ease-in-out forwards;
   background-color: rgb(98, 151, 163);
   background: linear-gradient(rgb(60, 109, 120) 1%, rgb(98, 151, 163) 99%);
 }
 .h4{right:0;
   animation: load4 2s ease-in-out 4.8s forwards;
+  animation: load4 2s ease-in-out forwards;
   background-color: rgb(7, 59, 71);
   background: linear-gradient(rgb(98, 151, 163) 1%, rgb(7, 59, 71) 99%);
 }
 .h5{left:0;
   animation: load5 2s ease-in-out 6.4s forwards;
+  animation: load5 2s ease-in-out forwards;
   background-color: rgb(49, 90, 99);
   background: linear-gradient(to top,rgb(7, 59, 71) 1%, rgb(60, 109, 120) 99%);
 
 }
 .h6{left:0;
   animation: load6 2s ease-in-out 8s forwards;
+  animation: load6 2s ease-in-out forwards;
   background-color: rgb(98, 151, 163);
   background: linear-gradient(to top,rgb(60, 109, 120) 1%, rgb(98, 151, 163) 99%);
 
